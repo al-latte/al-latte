@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karlisha
 - 👀 I’m interested in Web Development and Language Learning
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything to do with web dev (web apps, websites)
 - 📫 How to reach me ...
 
 <!---
