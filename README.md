@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karlisha
 - 👀 I’m interested in Web Development and (foreign)Language Learning
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
+- 🌱 I’m currently learning vue3
 - 💞️ I’m looking to collaborate on anything to do with web dev (web apps, websites)
 - 📫 How to reach me ... @kally.dev on instagram
 
