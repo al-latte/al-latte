@@ -78,7 +78,7 @@ Welcome to my corner of the web! I'm a **Frontend Developer** currently on a jou
 
 ### 📫 Let’s Connect
 - 💬 Ask me about dev life, language learning, or your favorite anime
-- 💻 LinkedIn: [linkedin.com/in/karlisha](#) (https://www.linkedin.com/in/karlisha-roberts-ba2605259/))_
+- 💻 LinkedIn: [linkedin.com/in/karlisha](https://www.linkedin.com/in/karlisha-roberts-ba2605259/)
 
 ---
 
