@@ -71,11 +71,6 @@ Welcome to my corner of the web! I'm a **Frontend Developer** currently on a jou
 
 ---
 
-### 🎖️ Badges & Fun
-![Profile Views](https://komarev.com/ghpvc/?username=al-latte&label=Profile%20views&color=ff69b4&style=flat)
-
----
-
 ### 📫 Let’s Connect
 - 💬 Ask me about dev life, language learning, or your favorite anime
 - 💻 LinkedIn: [linkedin.com/in/karlisha](https://www.linkedin.com/in/karlisha-roberts-ba2605259/)
